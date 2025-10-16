@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 Perkenalkan nama saya **Kadek Boy Brahmanda Satrya Montana**.\
-Saya seorang mahasiswa Semester **5** Program Studi **Teknologi Informasi** Universitas **Udayana**.\
-Saya tertarik dengan **Mobile Development**, saat ini saya sedang mempelajarinya melalui program **Bangkit 2023 Batch 2**.
+Saya tertarik dengan **Mobile Development** dan **Website Development**, saat ini saya sedang mempelajarinya melalui program **Bangkit 2023 Batch 2**.
 
-📫 Jika kamu tertarik dapat mengikuti saya di akun [Instagram](https://www.instagram.com/boybrahmanda/)ku ya!!.
+📫 Jika kamu tertarik dapat mengikuti saya di akun [Linkedin](https://www.instagram.com/boybrahman)ku ya!!.
 
 
 **Statistik GitHub**
